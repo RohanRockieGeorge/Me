@@ -38,10 +38,10 @@
 - To make the world better than it was yesterday
 
 ## Projects
-- [Small Game Project](https://rohanrockie.itch.io/space-drive)
-- [Figma Project](Figma_Rohan)
-- Webdev Frontend 1- Newspaper site
-- Webdev Frontend 2- TravelSite
+- AR Project -[AR Game with Unity](https://github.com/RohanRockieGeorge/Me/blob/main/Ar_game.md)
+- Hackathon - [24 hour hackathon project](https://rohanrockie.itch.io/tread-lightly)
+- [Small Game Project with Unity](https://rohanrockie.itch.io/space-drive)
+- [Figma Project](https://www.figma.com/proto/Whvc6CXBN7ziM8ASLixVHR/Prototype?type=design&node-id=1-1371&t=teXEPW41e3bUzJ1s-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A1371&show-proto-sidebar=1)
 
 ## Additional info
 - **Languages known:** English, Malayalam, Hindi
@@ -49,9 +49,9 @@
 - Part of PES Music Club
 
 ## Links
-- AR Project -[AR Game with Unity](https://github.com/RohanRockieGeorge/Me/blob/main/Ar_game.md)
-- Hackathon - [24 hour hackathon project](https://rohanrockie.itch.io/tread-lightly)
-- LinkedIn: [Rohan Rockie George](linkedin.com/in/rohan-rockie-62a4071aa)
+
+
+- LinkedIn: [Rohan Rockie George](https://www.linkedin.com/in/rohan-rockie-62a4071aa/)
 - Instagram: [Rohan](https://www.instagram.com/rohan_rockie_george/?r=nametag)
 - GitHub: [RohanRockieGeorge](https://github.com/RohanRockieGeorge)
 
